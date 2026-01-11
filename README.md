@@ -29,7 +29,7 @@ Projekt stworzony przez: **Marcin "Skrętka" (SQ7UTP)**.
 ### Schemat połączeń (I2C)
 | ESP8266 (Wemos/NodeMCU) | OLED (SH1106) |
 | :--- | :--- |
-| 3.3V (lub 5V) | VCC |
+| 3.3V | VCC |
 | GND | GND |
 | D1 (GPIO 5) | SCL |
 | D2 (GPIO 4) | SDA |
