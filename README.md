@@ -1,4 +1,4 @@
-# APRS Monitor (ESP8266 + OLED) 📡
+# APRS Monitor (ESP8266 + OLED 1.3inch) 📡
 
 ![License: GPL v3](https://img.shields.io/badge/License-Code%3A_GPLv3-blue.svg)
 ![License: CC BY-NC 4.0](https://img.shields.io/badge/License-Case%3A_CC_BY--NC_4.0-yellow.svg)
