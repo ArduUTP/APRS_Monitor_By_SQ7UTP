@@ -723,7 +723,7 @@ void connectToAPRS() {
     
     String filterRange = String(aprs_filter_range); 
     
-    String login = String("user ") + String(my_callsign) + " pass " + String(aprs_pass) + " vers ESP8266APRSMonitor 1.0 filter r/" +
+    String login = String("user ") + String(my_callsign) + " pass " + String(aprs_pass) + " vers ESP8266APRSMonitor V1.2 filter r/" +
                    String(myLat, 2) + "/" + String(myLon, 2) + "/" + filterRange + "\r\n";
     client.print(login);
     client.flush();
